@@ -1,0 +1,16 @@
+C:\Users\dell\Desktop\Template\HTTPServer\bin\Debug\HTTPServer.exe
+C:\Users\dell\Desktop\Template\HTTPServer\bin\Debug\HTTPServer.pdb
+C:\Users\dell\Desktop\Template\HTTPServer\obj\x86\Debug\HTTPServer.exe
+C:\Users\dell\Desktop\Template\HTTPServer\obj\x86\Debug\HTTPServer.pdb
+C:\Network_Project_template\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.exe
+C:\Network_Project_template\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.pdb
+C:\Network_Project_template\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.csproj.AssemblyReference.cache
+C:\Network_Project_template\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.csproj.CoreCompileInputs.cache
+C:\Network_Project_template\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.exe
+C:\Network_Project_template\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.pdb
+C:\Users\LENOVO\Downloads\Template[2021-2022]\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.exe
+C:\Users\LENOVO\Downloads\Template[2021-2022]\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.pdb
+C:\Users\LENOVO\Downloads\Template[2021-2022]\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Downloads\Template[2021-2022]\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\Template[2021-2022]\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.exe
+C:\Users\LENOVO\Downloads\Template[2021-2022]\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.pdb
